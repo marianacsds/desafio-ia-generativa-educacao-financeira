@@ -24,4 +24,4 @@ Criar um mini guia de estudos sobre **educação financeira básica**, a partir 
 Elaboração de um **mini guia de estudo**, demonstrando como a IA Generativa pode apoiar o aprendizado quando aliada ao pensamento crítico, organização do conhecimento e revisão humana.
 
 ## Considerações Finais
-O desafio reforça o papel da IA como ferramenta de apoio educacional, ampliando o acesso ao conhecimento e promovendo uma aprendizagem mais ativa e estruturada.
+O desafio reforça o papel da IA como ferramenta de apoio educacional, ampliando o acesso ao conhecimento e promovendo uma aprendizagem mais ativa e estruturada.[Caderno_Educacao_Financeira_Resumo (1).pdf](https://github.com/user-attachments/files/25198631/Caderno_Educacao_Financeira_Resumo.1.pdf)
